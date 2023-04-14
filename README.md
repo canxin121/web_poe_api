@@ -25,6 +25,7 @@ def refresh_mybot(nickname):
         bot_dict = json.load(f)
     refresh_bot(nickname,bot_dict,cookie,poe_formkey=poe_formkey,poe_tchannel=poe_tchannel)
 ################################################
+##bot都是nickname，必须唯一，不能重复（poe.com的要求，且在此处nickname不是实际名）
 # 创建bot，参数依次为nickname，预设prompt，模型（gpt3_5或者claude）
 # create_mybot("xhssss","省略一下~~~",'gpt3_5')
 # 刷新当前指定bot的对话，参数为nickname
