@@ -1,1 +1,53 @@
-{"botname": {"gpt3_5": "chinchilla", "claude": "a2", "dragonfly": "nutria", "canxin": "canxin456", "cccc": "ca0c5fbe", "xxxx": "cab64077", "test1": "c501822b", "test2": "f1917643", "canxssxs": "55c4b081", "xiaohh": "57ee2145", "xiaohsh": "c2d6b0bf", "xh": "786e9eb5", "xhs": "daaeefe8", "xhsss": "b21d3e2a", "xhssss": "adee5ed0"}, "chatid": {"gpt3_5": 8114129, "claude": 8114343, "dragonfly": 8114279, "canxin": 9301865, "cccc": 9432211, "xxxx": 9454603, "test1": 9459169, "test2": 9462612, "canxssxs": 9472551, "xiaohh": 9475475, "xiaohsh": 9475983, "xh": 9476166, "xhs": 9476570, "xhsss": 9477353, "xhssss": 9477520}, "path": {"gpt3_5": "ChatGPT", "claude": "Claude-instant", "dragonfly": "Dragonfly", "canxin": "canxin456", "cccc": "ca0c5fbe", "xxxx": "cab64077", "test1": "c501822b", "test2": "f1917643", "canxssxs": "55c4b081", "xiaohh": "57ee2145", "xiaohsh": "c2d6b0bf", "xh": "786e9eb5", "xhs": "daaeefe8", "xhsss": "b21d3e2a", "xhssss": "adee5ed0"}}
+{
+    "botname": {
+        "gpt3_5": "chinchilla",
+        "claude": "a2",
+        "dragonfly": "nutria",
+        "canxin": "canxin456",
+        "cccc": "ca0c5fbe",
+        "xxxx": "cab64077",
+        "test1": "c501822b",
+        "test2": "f1917643",
+        "canxssxs": "55c4b081",
+        "xiaohh": "57ee2145",
+        "xiaohsh": "c2d6b0bf",
+        "xh": "786e9eb5",
+        "xhs": "daaeefe8",
+        "xhsss": "b21d3e2a",
+        "xhssss": "adee5ed0"
+    },
+    "chatid": {
+        "gpt3_5": 8114129,
+        "claude": 8114343,
+        "dragonfly": 8114279,
+        "canxin": 9301865,
+        "cccc": 9432211,
+        "xxxx": 9454603,
+        "test1": 9459169,
+        "test2": 9462612,
+        "canxssxs": 9472551,
+        "xiaohh": 9475475,
+        "xiaohsh": 9475983,
+        "xh": 9476166,
+        "xhs": 9476570,
+        "xhsss": 9477353,
+        "xhssss": 9477520
+    },
+    "path": {
+        "gpt3_5": "ChatGPT",
+        "claude": "Claude-instant",
+        "dragonfly": "Dragonfly",
+        "canxin": "canxin456",
+        "cccc": "ca0c5fbe",
+        "xxxx": "cab64077",
+        "test1": "c501822b",
+        "test2": "f1917643",
+        "canxssxs": "55c4b081",
+        "xiaohh": "57ee2145",
+        "xiaohsh": "c2d6b0bf",
+        "xh": "786e9eb5",
+        "xhs": "daaeefe8",
+        "xhsss": "b21d3e2a",
+        "xhssss": "adee5ed0"
+    }
+}
