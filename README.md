@@ -1,5 +1,11 @@
 # web_poe_api
-some useful api from poe.com  
+some useful api from poe.com
+安装本库
+```
+pip install web_poe_api
+```
+
+
 存储的数据格式请直接看json文件
 ```
 import os
