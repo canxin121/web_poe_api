@@ -27,9 +27,9 @@ def refresh_mybot(nickname):
 ################################################
 # 创建bot，参数依次为nickname，预设prompt，模型（gpt3_5或者claude）
 # create_mybot("xhssss","省略一下~~~",'gpt3_5')
-# 参数为nickname
+# 刷新当前指定bot的对话，参数为nickname
 # refresh_mybot('xhssss')
-# 参数为问题query，nickname询问对象
+# 与指定bot问答，参数为问题query，nickname询问对象
 last_answer,chat_suggest,chat_list_text,chat_list_raw = use_mybot(query="你是谁",bot='xhssss')
 print(last_answer)
 print(*chat_suggest)
