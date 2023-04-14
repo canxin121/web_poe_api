@@ -1,11 +1,11 @@
 # web_poe_api
 some useful api from poe.com
+存储的数据格式请直接看json文件
 ```
 import os
 from web_poe_api import use_bot,refresh_bot,create_bot
 import json
 import re
-
 ################################################
 Path = os.path.dirname(os.path.abspath(__file__))
 cookie = 'p-b=cktSb3s2AtYuPthsaZURfQ%3D%3D'
